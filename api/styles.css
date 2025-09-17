@@ -1,0 +1,4 @@
+/* styles.css - small custom tweaks */
+body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:#fbfbfd; }
+.card { border-radius: 10px; box-shadow: 0 6px 20px rgba(25,25,50,0.04); }
+.navbar-brand { font-weight: 700; }
